@@ -1,4 +1,4 @@
-# [时序 CTA 方法论](https://inst.htsc.com/research/report?reportId=4507121011)综述：学习笔记
+# [时序 CTA 方法论综述](https://inst.htsc.com/research/report?reportId=4507121011)：学习笔记
 
 > 原文：华泰证券金工研报《时序CTA方法论综述：市场状态、开仓信号与退出机制》，2026-06-10。  
 > 本笔记以量化研究视角整理，重点关注：策略思想、模型设置、因子选择、优缺点，以及可迁移的 alpha。  
