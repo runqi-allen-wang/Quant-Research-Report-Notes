@@ -8,25 +8,24 @@
 
 ```text
 .
-├── report_01_xxx/
-│   ├── notes.md          # 研报学习笔记
-│   ├── src/              # 代码预留位置：因子计算、信号生成、回测等
-│   ├── data/             # 本地数据目录，默认不上传
-│   └── README.md         # 可选：单篇研报的补充说明
-├── report_02_xxx/
+├── 01_time_series_cta/
 │   ├── notes.md
-│   ├── src/
-│   └── data/
+│   └── src/
+│
+├── 02_chip_structure_ai_factor/
+│   ├── notes.md
+│   └── src/
+│
 └── README.md
 ```
 
-实际文件夹名称会根据研报主题调整。每个子文件夹尽量保持统一结构，方便后续横向比较不同研报的方法和实证结果。
 
 ## Current Notes
 
 | No. | Topic | Report | Main Focus | Status |
 | --- | --- | --- | --- | --- |
 | [01](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_01_ts_cta_methodology/notes.md) | Time-Series CTA | 华泰研究《时序 CTA 方法论综述：市场状态、开仓信号与退出机制》 | 市场状态识别、趋势开仓信号、止损与退出机制、CTA Alpha 来源 | Notes completed |
+| 02 | AI Factor | 华泰研究《基于筹码分层结构的端到端AI因子》 | 利用筹码成本结构与CNN+GRU挖掘非线性选股 Alpha |
 
 ## What I Record
 
