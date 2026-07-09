@@ -22,9 +22,9 @@
 
 ## Current Notes
 
-| No. | Topic | Report | Main Focus | Status |
+| No. | Topic | Report | Main Focus | 
 | --- | --- | --- | --- | --- |
-| [01](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_01_ts_cta_methodology/notes.md) | Time-Series CTA | 华泰研究《时序 CTA 方法论综述：市场状态、开仓信号与退出机制》 | 市场状态识别、趋势开仓信号、止损与退出机制、CTA Alpha 来源 | Notes completed |
+| [01](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_01_ts_cta_methodology/notes.md) | Time-Series CTA | 华泰研究《时序 CTA 方法论综述：市场状态、开仓信号与退出机制》 | 市场状态识别、趋势开仓信号、止损与退出机制、CTA Alpha 来源 | 
 | [02](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_02_chip_structure_end2end_ai_factor/notes.md) | AI Factor | 华泰研究《基于筹码分层结构的端到端AI因子》 | 利用筹码成本结构与CNN+GRU挖掘非线性选股 Alpha |
 
 ## What I Record
@@ -36,7 +36,6 @@
 - **因子选择分析**：分析所用因子或技术指标背后的经济含义、统计性质和可能的冗余问题。
 - **优缺点评价**：从量化研究和实盘应用角度评价研报方法的可行性、稳定性和局限。
 - **Alpha 提炼**：尝试总结真正可能贡献收益的部分，而不仅仅记录表面策略规则。
-- **复现计划**：预留代码位置，用于后续实现因子计算、信号生成、回测和稳健性检验。
 
 ## Research Philosophy
 
