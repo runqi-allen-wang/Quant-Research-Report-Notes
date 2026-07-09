@@ -22,8 +22,8 @@
 
 ## Current Notes
 
-| No. | Topic | Report | Main Focus | 
-| --- | --- | --- | --- | --- |
+| No. | Topic | Report | Main Idea | 
+| --- | --- | --- | --- | 
 | [01](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_01_ts_cta_methodology/notes.md) | Time-Series CTA | 华泰研究《时序 CTA 方法论综述：市场状态、开仓信号与退出机制》 | 市场状态识别、趋势开仓信号、止损与退出机制、CTA Alpha 来源 | 
 | [02](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_02_chip_structure_end2end_ai_factor/notes.md) | AI Factor | 华泰研究《基于筹码分层结构的端到端AI因子》 | 利用筹码成本结构与CNN+GRU挖掘非线性选股 Alpha |
 
