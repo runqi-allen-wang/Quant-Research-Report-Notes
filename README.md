@@ -26,7 +26,7 @@
 
 | No. | Topic | Report | Main Focus | Status |
 | --- | --- | --- | --- | --- |
-| 01 | Time-Series CTA | 华泰研究《时序 CTA 方法论综述：市场状态、开仓信号与退出机制》 | 市场状态识别、趋势开仓信号、止损与退出机制、CTA Alpha 来源 | Notes completed |
+| [01](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_01_ts_cta_methodology/notes.md) | Time-Series CTA | 华泰研究《时序 CTA 方法论综述：市场状态、开仓信号与退出机制》 | 市场状态识别、趋势开仓信号、止损与退出机制、CTA Alpha 来源 | Notes completed |
 
 ## What I Record
 
