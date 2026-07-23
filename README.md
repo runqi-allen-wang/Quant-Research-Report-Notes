@@ -27,11 +27,11 @@
 | No. | Topic | Report | Main Idea | Recommendation |
 | --- | --- | --- | --- | --- |
 | [01](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_01_ts_cta_methodology/notes.md) | Time-Series CTA | 华泰研究《时序 CTA 方法论综述：市场状态、开仓信号与退出机制》 | 市场状态识别、趋势开仓信号、止损与退出机制、CTA Alpha 来源 | Medium |
-| [02](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_02_chip_structure_end2end_ai_factor/notes.md) | AI Factor | 华泰研究《基于筹码分层结构的端到端AI因子》 | 利用筹码成本结构与CNN+GRU挖掘非线性选股 Alpha | High |
-|[03](https://inst.htsc.com/research/report?reportId=4501046409)| Agent | 华泰研究《自进化Skill：选股策略的自动迭代》 | 利用Agent 自动迭代选股 | Low |
+| [02](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_02_chip_structure_end2end_ai_factor/notes.md) | AI Factor | 华泰研究《基于筹码分层结构的端到端AI因子》 | 利用筹码成本结构与 CNN+GRU 挖掘非线性选股 Alpha | High |
+| [03](https://inst.htsc.com/research/report?reportId=4501046409) | Agent | 华泰研究《自进化 Skill：选股策略的自动迭代》 | 利用 Agent 自动迭代选股策略，并以 Skill、版本管理和样本隔离约束研究流程 | Low |
+| [04](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_04_multidimensional_timing_model/notes.md) | Market Timing | 华泰研究《多维择时模型的拆解与重构》 | 将 26 个择时因子拆解到追高、抄底、追空、逃顶四条收益路径，并按场景适配重构多维择时信号 | High |
 
 ## What I Record
-
 每篇研报的学习笔记通常包括以下内容：
 
 - **核心思路复述**：用尽量简洁的语言重新解释研报的研究问题、模型框架和策略流程。
