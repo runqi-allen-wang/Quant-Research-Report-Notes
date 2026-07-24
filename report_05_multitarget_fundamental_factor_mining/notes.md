@@ -135,7 +135,7 @@ $$
 ### 5.1 绝对 IC
 
 $$
-f_1(F)=|\operatorname{IC}(F,r_{t+1})|.
+f_1(F)=|\mathrm{IC}(F,r_{t+1})|.
 $$
 
 反映横截面排序能力。
@@ -143,7 +143,7 @@ $$
 ### 5.2 IC 胜率
 
 $$
-f_2(F) = \frac{1}{T} \sum_{t=1}^{T} \mathbf 1 \left\{\mathrm{sign}(\mathrm{IC}_t) = \mathrm{sign}(\overline{\mathrm{IC}})\right\}.
+f_2(F) = \frac{1}{T} \sum_{t=1}^{T} \mathbf 1 \{ \mathrm{sign}(\mathrm{IC}_t) = \mathrm{sign}(\overline{\mathrm{IC}}) \}.
 $$
 
 用于约束时序稳定性，避免收益只来自少数月份。
