@@ -151,12 +151,7 @@ mask_rule  = high_0.7
 例如：
 
 $$
-F_{i,t}
-=
-\operatorname{Slope}
-\left(
-A_{i,t,\tau}
-\right).
+F_{i,t} = \mathrm{Slope} (A_{i,t,\tau}).
 $$
 
 #### 双变量算子
@@ -174,13 +169,7 @@ $$
 例如：
 
 $$
-F_{i,t}
-=
-\operatorname{Corr}
-\left(
-A_{i,t,\tau},
-B_{i,t,\tau+\ell}
-\right).
+F_{i,t}=\mathrm{Corr}(A_{i,t,\tau},B_{i,t,\tau+\ell}).
 $$
 
 `B_shift_lag` 用于研究同步、领先和滞后关系。
