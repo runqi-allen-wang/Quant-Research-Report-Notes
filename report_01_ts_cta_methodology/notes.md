@@ -61,9 +61,7 @@ $$
 如果把持有周期拉长到 $T$，累计收益的趋势项大约是 $\mu T$，累计噪声大约是 $\sigma \sqrt{T}$，因此累计信噪比为：
 
 $$
-\mathrm{TSI}_{\mathrm{cum}}
-= \frac{\mu T}{\sigma \sqrt{T}}
-= \frac{\mu}{\sigma}\sqrt{T}.
+\mathrm{TSI}_{\mathrm{cum}} = \frac{\mu T}{\sigma \sqrt{T}} = \frac{\mu}{\sigma}\sqrt{T}.
 $$
 
 这个公式给出一个很重要的实务启发：
@@ -106,8 +104,7 @@ $$
 文章没有固定使用一个窗口长度，而是用 Kaufman 效率比来调整窗口：
 
 $$
-ER_t = \frac{|close_t - close_{t-l}|}
-{\sum_{n=1}^{l-1}|close_{t-n} - close_{t-n-1}|},
+ER_t = \frac{|close_t - close_{t-l}|} {\sum_{n=1}^{l-1}|close_{t-n} - close_{t-n-1}|},
 $$
 
 $$
@@ -180,9 +177,7 @@ $$
 RSI 统计一段时间内正收益占总波动的比例，常用于识别超买和超卖：
 
 $$
-RSI_t =
-\frac{\sum_{s=0}^{h-1}\max(0,\delta_{t-s})}
-{\sum_{s=0}^{h-1}|\delta_{t-s}|}.
+RSI_t = \frac{\sum_{s=0}^{h-1}\max(0,\delta_{t-s})} {\sum_{s=0}^{h-1}|\delta_{t-s}|}.
 $$
 
 在文章的实证中：
