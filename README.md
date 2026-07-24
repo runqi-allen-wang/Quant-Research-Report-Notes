@@ -30,7 +30,8 @@
 | [02](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_02_chip_structure_end2end_ai_factor/notes.md) | AI Factor | 华泰研究《基于筹码分层结构的端到端AI因子》 | 利用筹码成本结构与 CNN+GRU 挖掘非线性选股 Alpha | High |
 | [03](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_03_self_evolving_skill/notes.md) | Agent | 华泰研究《自进化 Skill：选股策略的自动迭代》 | 利用 Agent 自动迭代选股策略，并以 Skill、版本管理和样本隔离约束研究流程 | Low |
 | [04](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_04_multidimensional_timing_model/notes.md) | Market Timing | 华泰研究《多维择时模型的拆解与重构》 | 将 26 个择时因子拆解到追高、抄底、追空、逃顶四条收益路径，并按场景适配重构多维择时信号 | High |
-
+| [05](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_05_multitarget_fundamental_factor_mining/notes.md) | Factor Mining I | 华泰研究《以空间换时间——多目标基本面选股因子挖掘框架》 | 以参数化基本面公式、IC/IC 胜率/NDCG@k 三目标和 NSGA-II 构建可解释因子搜索系统，并用显存缓存提升滚动挖掘效率 | High |
+| [06](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_06_intraday_parametric_factor_mining/notes.md) | Factor Mining II | 华泰研究《高频特征参数化：分钟级可解释因子挖掘框架》 | 将姊妹篇框架扩展到分钟量价数据，通过日内切片、条件掩码、时序算子、NSGA-III 和动态短板惩罚挖掘微观结构 Alpha | High |
 ## What I Record
 每篇研报的学习笔记通常包括以下内容：
 
