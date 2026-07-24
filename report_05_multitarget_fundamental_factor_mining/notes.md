@@ -117,9 +117,7 @@ $$
 对 `y` 关于 `x` 做横截面回归：
 
 $$
-y_{i,t}
-=
-\alpha_t+\beta_t x_{i,t}+\varepsilon_{i,t},
+y_{i,t} = \alpha_t+\beta_t x_{i,t}+\varepsilon_{i,t},
 $$
 
 并将残差作为因子：
@@ -145,16 +143,7 @@ $$
 ### 5.2 IC 胜率
 
 $$
-f_2(F)
-=
-\frac{1}{T}
-\sum_{t=1}^{T}
-\mathbf 1
-\left\{
-\operatorname{sign}(\operatorname{IC}_t)
-=
-\operatorname{sign}(\overline{\operatorname{IC}})
-\right\}.
+f_2(F) = \frac{1}{T} \sum_{t=1}^{T} \mathbf 1 \left\{\operatorname{sign}(\operatorname{IC}_t) = \operatorname{sign}(\overline{\operatorname{IC}})\right\}.
 $$
 
 用于约束时序稳定性，避免收益只来自少数月份。
