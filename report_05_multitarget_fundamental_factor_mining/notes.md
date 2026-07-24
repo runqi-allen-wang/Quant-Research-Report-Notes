@@ -104,7 +104,7 @@ Ne[f(y, x, y_lg, x_lg,
 
 例如：
 
-$$
+\[
 \text{ROE}
 =
 \frac{\text{Net Income}}{\text{Equity}},
@@ -112,7 +112,7 @@ $$
 \text{E/P}
 =
 \frac{\text{Earnings}}{\text{Market Cap}}.
-$$
+\]
 
 #### 模式 C：残差关系
 
