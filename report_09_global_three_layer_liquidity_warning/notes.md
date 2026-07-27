@@ -1,4 +1,4 @@
-# 全球三层次流动性风险预警模型：学习笔记
+# [全球三层次流动性风险预警模型](https://inst.htsc.com/research/report?reportId=4460172299)：学习笔记
 
 > 原文：华泰证券金工研报《全球三层次流动性风险预警模型》，2026-03-15。  
 > 研究目标：从央行、融资和交易三个层次识别全球流动性压力，并为多资产组合提供防御择时。  
@@ -173,8 +173,7 @@ $$
 研报根据联储资产负债表构建：
 
 $$
-FedSupport_t
-=
+FedSupport_t =
 \frac{
 \text{中长期国债}
 +
@@ -274,8 +273,7 @@ $$
 四个子信号取均值：
 
 $$
-CB_t
-=
+CB_t =
 \frac{1}{4}
 \sum_{j=1}^{4}
 s_{j,t}.
@@ -338,8 +336,7 @@ SOFR 是以美国国债为抵押的隔夜回购利率。
 当 SOFR 同时高于其中至少两个关键利率时，认为融资市场出现压力：
 
 $$
-SOFRStress_t
-=
+SOFRStress_t =
 I\left(
 \sum_k I(SOFR_t>Rate_{k,t})
 \geq 2
@@ -385,8 +382,7 @@ SOFR 突破政策或无担保利率锚，可能表示：
 对每个货币对、多个窗口计算：
 
 $$
-Z_{c,t,k}
-=
+Z_{c,t,k} =
 \frac{X_{c,t}-\mu_{c,t,k}}
 {\sigma_{c,t,k}},
 $$
@@ -430,8 +426,7 @@ RR 异常跳升通常对应：
 当 SOFR 或 RR 任一触发时，组合转为防御：
 
 $$
-FundingStress_t
-=
+FundingStress_t =
 SOFRStress_t
 \lor
 RRStress_t.
@@ -623,8 +618,7 @@ $$
 可以改为连续仓位：
 
 $$
-w_t^{risk}
-=
+w_t^{risk} =
 g(-Stress_t),
 $$
 
@@ -772,8 +766,7 @@ $$
 将二元压力改为连续风险预算：
 
 $$
-w_t^{risk}
-=
+w_t^{risk} =
 \max
 \left(
 0,
@@ -796,8 +789,7 @@ $$
 可估计：
 
 $$
-r_{i,t}
-=
+r_{i,t} =
 \alpha_i
 +
 \beta_{i,CB}CB_t
@@ -864,8 +856,7 @@ $$
 为避免月末、季末误报，可将 SOFR 压力拆成：
 
 $$
-SOFR_t
-=
+SOFR_t =
 \text{结构性压力}
 +
 \text{日历效应}
@@ -889,10 +880,7 @@ $$
 定义：
 
 $$
-D_t
-=
-Fedspeak_t
--
+D_t = Fedspeak_t -
 OISExpectation_t.
 $$
 
@@ -907,8 +895,7 @@ $$
 不是单看 VIX，而是观察多资产 IV 同时异常：
 
 $$
-CoStress_t
-=
+CoStress_t =
 \sum_j
 I(Z_{j,t}>2).
 $$
