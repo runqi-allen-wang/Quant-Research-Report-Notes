@@ -424,7 +424,7 @@ AI 主要用于：
 $$
 \Delta \text{Share}_{i,t} =
 \alpha_i+\gamma_t
-+\sum_{k=1}^{K}\beta_k\operatorname{Perf}_{i,t-k}
++\sum_{k=1}^{K}\beta_k\mathrm{Perf}_{i,t-k}
 +\theta^\top X_{i,t}
 +\varepsilon_{i,t},
 $$
@@ -598,7 +598,7 @@ $$
 $$
 \text{Clarity}_i =
 1-
-\operatorname{Var}
+\mathrm{Var}
 \left(
 \text{Style Exposure}_{i,t}
 \right).
