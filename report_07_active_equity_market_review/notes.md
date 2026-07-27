@@ -422,8 +422,7 @@ AI 主要用于：
 ### 更严格的改进模型
 
 $$
-\Delta \text{Share}_{i,t}
-=
+\Delta \text{Share}_{i,t} =
 \alpha_i+\gamma_t
 +\sum_{k=1}^{K}\beta_k\operatorname{Perf}_{i,t-k}
 +\theta^\top X_{i,t}
@@ -498,8 +497,7 @@ $$
 可进一步定义：
 
 $$
-\text{Market Regime}
-=
+\text{Market Regime} =
 f(
 \text{趋势},
 \text{波动率},
@@ -545,10 +543,8 @@ $$
 定义：
 
 $$
-D_{i,t}
-=
-\Delta \text{Share}^{C}_{i,t}
--
+D_{i,t} =
+\Delta \text{Share}^{C}_{i,t} -
 \Delta \text{Share}^{A}_{i,t}.
 $$
 
@@ -562,8 +558,7 @@ $$
 ### Alpha 3：低回撤持续性 Alpha
 
 $$
-S_i
-=
+S_i =
 z(\text{长期超额})
 -\lambda_1 z(\text{最大回撤})
 +\lambda_2 z(\text{回撤恢复速度})
@@ -601,8 +596,7 @@ $$
 ### Alpha 6：产品定位清晰度 Alpha
 
 $$
-\text{Clarity}_i
-=
+\text{Clarity}_i =
 1-
 \operatorname{Var}
 \left(
@@ -674,8 +668,7 @@ $$
 最终评分：
 
 $$
-\text{Fund Score}
-=
+\text{Fund Score} =
 w_1 Q_i+w_2 S_i+w_3 F_i-w_4 C_i,
 $$
 
