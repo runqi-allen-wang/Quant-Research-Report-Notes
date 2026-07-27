@@ -32,6 +32,10 @@
 | [04](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_04_multidimensional_timing_model/notes.md) | Market Timing | 华泰研究《多维择时模型的拆解与重构》 | 将 26 个择时因子拆解到追高、抄底、追空、逃顶四条收益路径，并按场景适配重构多维择时信号 | High |
 | [05](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_05_multitarget_fundamental_factor_mining/notes.md) | Factor Mining I | 华泰研究《以空间换时间——多目标基本面选股因子挖掘框架》 | 以参数化基本面公式、IC/IC 胜率/NDCG@k 三目标和 NSGA-II 构建可解释因子搜索系统，并用显存缓存提升滚动挖掘效率 | High |
 | [06](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_06_intraday_parametric_factor_mining/notes.md) | Factor Mining II | 华泰研究《高频特征参数化：分钟级可解释因子挖掘框架》 | 将姊妹篇框架扩展到分钟量价数据，通过日内切片、条件掩码、时序算子、NSGA-III 和动态短板惩罚挖掘微观结构 Alpha | High |
+| [07](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_07_active_equity_market_review/notes.md) | Active Euqity Market | 华泰研究《金工: 主动权益市场深度复盘与发展前瞻》 | 分析新形势下，何种主动权益产品、基金经理和机构仍然具有长期竞争力 | Low |
+
+
+
 ## What I Record
 每篇研报的学习笔记通常包括以下内容：
 
