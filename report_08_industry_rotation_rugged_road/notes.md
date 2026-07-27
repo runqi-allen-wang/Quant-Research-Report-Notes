@@ -1,4 +1,4 @@
-# 量化行业轮动的“崎岖之路”：学习笔记
+# [量化行业轮动的“崎岖之路”](https://inst.htsc.com/research/report?reportId=4459844484)：学习笔记
 
 > 原文：华泰证券金工研报《量化行业轮动的“崎岖之路”》，2026-03-13。  
 > 研究对象：中信一级行业及部分可拆分的中信二级行业。  
@@ -36,8 +36,7 @@
 行业收益同时受多层驱动：
 
 $$
-r_{i,t}
-=
+r_{i,t} =
 \beta_{i,m}F_{m,t}
 +
 \beta_{i,s}F_{s,t}
@@ -106,8 +105,7 @@ CTA 和 LLM 更多属于后续研究方向。
 研报先构造市场因子和风格因子，再用过去 12 个月行业对数收益做回归：
 
 $$
-r_{i,t}
-=
+r_{i,t} =
 \beta_{i,m}F_{m,t}
 +
 \beta_{i,s}F_{s,t}
@@ -130,20 +128,17 @@ $$
 因此先寻找残差绝对波动最大的月份，并将该月残差取反，再求和：
 
 $$
-RM_{i,t}
-=
+RM_{i,t} =
 \sum_{k=1}^{12}\tilde{\varepsilon}_{i,t-k},
 $$
 
 其中
 
 $$
-\tilde{\varepsilon}_{i,t-k^\star}
-=
+\tilde{\varepsilon}_{i,t-k^\star} =
 -\varepsilon_{i,t-k^\star},
 \qquad
-k^\star
-=
+k^\star =
 \arg\max_k
 |\varepsilon_{i,t-k}|.
 $$
@@ -215,8 +210,7 @@ $$
 每个指标满足拥挤条件记 1 分，行业拥挤度最高为 4 分：
 
 $$
-Crowding_{i,t}
-=
+Crowding_{i,t} =
 \sum_{j=1}^{4}
 I\left(X_{i,t}^{(j)}>\tau_j\right).
 $$
@@ -396,9 +390,7 @@ x + 0.98y
 研报使用统一公式描述行业基本面因子：
 
 $$
-F\left[
-f(y,x,\cdots),\ merge
-\right].
+F\left[f(y,x,\cdots),\ merge \right].
 $$
 
 其中：
@@ -647,11 +639,7 @@ LLM 的潜在价值是：
 核心信号：
 
 $$
-\text{行业独立趋势}
-=
-\text{行业收益}
--
-\text{市场与风格解释部分}.
+\text{行业独立趋势} = \text{行业收益} - \text{市场与风格解释部分}.
 $$
 
 再对最极端残差月份做反转修正。
@@ -669,8 +657,7 @@ $$
 不直接做空拥挤行业，而是对行业模型给出的原始权重打折：
 
 $$
-w_{i,t}^{adj}
-=
+w_{i,t}^{adj} =
 w_{i,t}^{raw}
 \left(
 1-\lambda
@@ -735,8 +722,7 @@ $$
 截面模型选行业，时序模型控制是否持仓：
 
 $$
-w_{i,t}
-=
+w_{i,t} =
 w_{i,t}^{cross}
 \cdot
 I\left(Trend_{i,t}>0\right)
