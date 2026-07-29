@@ -35,6 +35,8 @@
 | [07](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_07_active_equity_market_review/notes.md) | Active Euqity Market | 华泰研究《[金工: 主动权益市场深度复盘与发展前瞻](https://inst.htsc.com/research/report?reportId=4466845800)》 | 分析新形势下，何种主动权益产品、基金经理和机构仍然具有长期竞争力 | 2026-03-27 | Low |
 | [08](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_08_industry_rotation_rugged_road/notes.md) | Quant Pipeline | 华泰研究《[金工: 量化行业轮动的“崎岖之路”](https://inst.htsc.com/research/report?reportId=4459844484)》 | 通过残差动量、行业拥挤度、多目标遗传规划与风格择时，构建兼顾截面选行业和时序风险控制的动态行业轮动框架。 | 2026-03-13 | High |
 | [09](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_09_global_three_layer_liquidity_warning/notes.md) | Risk Control | 华泰研究《[全球三层次流动性风险预警模型](https://inst.htsc.com/research/report?reportId=4460172299)》 | 从央行、资金和市场三层流动性构建全球风险预警信号，并以防御择时降低多资产组合在流动性危机中的同步回撤 | 2026-03-15 | Medium |
+| [10](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_10_llm_concept_macro_stock_selection/notes.md) | LLM Stock Selection | 华泰研究《[大模型概念与宏观热点选股](https://inst.htsc.com/research/report?reportId=4454061267)》 | 利用多智能体大模型框架将概念与宏观事件转化为产业链映射和投资逻辑，通过非结构化信息挖掘主题选股 Alpha | 2026-02-28 | High |
+
 
 ## What I Record
 每篇研报的学习笔记通常包括以下内容：
