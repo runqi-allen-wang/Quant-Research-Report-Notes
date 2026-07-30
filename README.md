@@ -8,7 +8,7 @@
 
 ```text
 .
-├── 01_time_series_cta/
+├── report_01_ts_cta_methodology/
 │   ├── notes.md
 │   └── src/
 │
