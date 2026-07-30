@@ -18,7 +18,9 @@
 │
 | ......
 |
-└── README.md
+├── README.md
+|
+└── SKILL.md
 ```
 
 
