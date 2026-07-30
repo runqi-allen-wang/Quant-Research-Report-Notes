@@ -36,10 +36,10 @@ Recommendation 使用三个独立维度：
 | [02](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_02_chip_structure_end2end_ai_factor/notes.md) | AI Factor         | 华泰研究《[基于筹码分层结构的端到端AI因子](https://inst.htsc.com/research/report?reportId=4504481798)》            | 利用筹码成本分布刻画投资者行为结构，并通过 CNN+GRU 学习非线性选股 Alpha       | 2026-06-02 | 🚀🧩           |
 | [03](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_03_self_evolving_skill/notes.md)              | AI Research Agent | 华泰研究《[自进化 Skill：选股策略的自动迭代](https://inst.htsc.com/research/report?reportId=4501046409)》         | 利用 Agent、Skill 管理和版本迭代机制构建自动化量化研究流程，提升策略探索与知识复用效率 | 2026-05-25 | 🚀🧩           |
 | [04](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_04_multidimensional_timing_model/notes.md)    | Market Timing     | 华泰研究《[多维择时模型的拆解与重构](https://inst.htsc.com/research/report?reportId=4498558551)》                | 将择时信号拆解为追高、抄底、追空和逃顶路径，并通过场景化组合提升市场状态适应能力          | 2026-05-18 | 🧩             |
-| [05](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_05_multitarget_fundamental_factor_mining/notes.md) | Factor Mining I | 华泰研究《[以空间换时间——多目标基本面选股因子挖掘框架](https://inst.htsc.com/research/report?reportId=4359005908)》 | 以参数化基本面公式、IC/IC 胜率/NDCG@k 三目标和 NSGA-II 构建可解释因子搜索系统，并用显存缓存提升滚动挖掘效率 | 2025-08-11 | High |
-| [06](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_06_intraday_parametric_factor_mining/notes.md) | Factor Mining II | 华泰研究《[高频特征参数化：分钟级可解释因子挖掘框架](https://inst.htsc.com/research/report?reportId=4470731640)》 | 将姊妹篇框架扩展到分钟量价数据，通过日内切片、条件掩码、时序算子、NSGA-III 和动态短板惩罚挖掘微观结构 Alpha | 2026-03-31 | High |
-| [07](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_07_active_equity_market_review/notes.md) | Active Euqity Market | 华泰研究《[金工: 主动权益市场深度复盘与发展前瞻](https://inst.htsc.com/research/report?reportId=4466845800)》 | 分析新形势下，何种主动权益产品、基金经理和机构仍然具有长期竞争力 | 2026-03-27 | Low |
-| 08 | Factor Mining I | 华泰研究《把握中国资产的中长期Beta机会》 | 以参数化基本面公式、IC/IC 胜率/NDCG@k 三目标和 NSGA-II 构建可解释因子搜索系统，并用显存缓存提升滚动挖掘效率 | 2025-08-11 | High |
+| [05](./report_05_active_equity_market_review/notes.md) | Active Equity | 华泰研究《主动权益市场深度复盘与发展前瞻》 | 从主动权益基金生态、投资者行为和机构能力变化出发，分析主动管理行业演变趋势与基金选择逻辑 | 2026-03-27 | 🧩 |
+| [06](./report_06_multi_objective_factor_framework/notes.md) | Multi-Objective Factor | 华泰研究《以空间换时间——多目标基本面选股因子挖掘框架》 | 利用多目标优化与因子空间搜索框架探索基本面因子的组合空间，提升因子发现效率与有效性 | 2026-06-20 | 🚀🧩🔁 |
+| [07](./report_07_high_frequency_factor/notes.md) | High-Frequency Factor | 华泰研究《高频特征参数化：分钟级可解释因子挖掘框架》 | 将分钟级市场数据通过参数化变换构造可解释高频因子，并结合AI多因子框架提升微观信息利用效率 | 2026-03-31 | 🚀🧩🔁 |
+| [08](./report_08_china_asset_beta/notes.md) | Asset Allocation | 华泰研究《把握中国资产的中长期Beta机会》 | 从全球流动性、估值周期和ETF工具发展角度分析中国资产中长期配置机会与Beta管理框架 | 2026-05-25 | 🧩 |
 
 
 
