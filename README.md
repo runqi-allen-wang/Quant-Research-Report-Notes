@@ -40,12 +40,7 @@ Recommendation 使用三个独立维度：🚀：行业领先性；🧩：框架
 | [08](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_08_active_equity_market_review/notes.md) | Active Equity | 华泰研究《[主动权益市场深度复盘与发展前瞻](https://inst.htsc.com/research/report?reportId=4466845800)》 | 从监管基准、份额流向、产品分化与机构平台四个层面解释主动管理价值重估，提炼可持续超额、风险控制与组织能力 Alpha | 2026-03-27 | 🧩 |
 | [09](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_09_quantitative_industry_rotation_rough_road/notes.md) | Industry Rotation | 华泰研究《[量化行业轮动的“崎岖之路”](https://inst.htsc.com/research/report?reportId=4459844484)》 | 以反转修正残差动量、拥挤度预警与多目标遗传规划重建行业排序，并用风格择时和 CTA 改善权重配置与退出风险 | 2026-03-13 | 🚀🧩 |
 | [10](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_10_global_three_layer_liquidity_risk/notes.md) | Liquidity Risk | 华泰研究《[全球三层次流动性风险预警模型](https://inst.htsc.com/research/report?reportId=4460172299)》 | 沿央行供给、杠杆融资与市场交易三层传导构建全球流动性预警，并以动态现金防御降低多资产组合尾部回撤 | 2026-03-15 | 🚀🧩 |
-
-
-
-| No. | Topic | Report | Main Idea | Time | Recommendation |
-| --- | --- | --- | --- | --- | --- |
-| [10](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_10_llm_concept_macro_stock_selection/notes.md) | LLM Stock Selection | 华泰研究《[大模型概念与宏观热点选股](https://inst.htsc.com/research/report?reportId=4454061267)》 | 利用多智能体大模型框架将概念与宏观事件转化为产业链映射和投资逻辑，通过非结构化信息挖掘主题选股 Alpha | 2026-02-28 | High |
+| [11](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_11_llm_concept_macro_stock_selection/notes.md) | Multi-Agent Selection | 华泰研究《[大模型概念与宏观热点选股](https://inst.htsc.com/research/report?reportId=4454061267)》 | 以产业链拆分和宏观多路径推演组织并行智能体，并通过证据仲裁将非结构化热点信息转化为可审计选股组合 | 2026-02-28 | 🚀🧩 |
 
 
 ## What I Record
