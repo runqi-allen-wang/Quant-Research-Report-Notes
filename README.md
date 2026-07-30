@@ -7,7 +7,6 @@
 ## Repository Structure
 
 ```text
-.
 ├── report_01_ts_cta_methodology/
 │   ├── notes.md
 │   └── src/
