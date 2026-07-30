@@ -38,6 +38,10 @@ Recommendation 使用三个独立维度：🚀：行业领先性；🧩：框架
 | [06](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_06_multi_objective_fundamental_factor_mining.md) | Fundamental Factor Mining | 华泰研究《[以空间换时间——多目标基本面选股因子挖掘框架](https://inst.htsc.com/research/report?reportId=4359005908)》 | 以参数化财务指标表达式和 NSGA-II 同时优化 IIC、时序胜率与多头排序表现，在保持经济解释性的同时挖掘稳定基本面 Alpha | 2025-08-11 | 🚀🧩🔁 |
 | [07](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_07_intraday_explainable_factor_mining.md) | Intraday Factor Mining | 华泰研究《[高频特征参数化：分钟级可解释因子挖掘框架](https://inst.htsc.com/research/report?reportId=4470731640)》 | 以参数化分钟量价公式和 NSGA-III 多目标搜索提取可解释微观结构信号，并为日频 AI 选股模型提供独立增量 Alpha | 2026-03-31 | 🚀🧩🔁 |
 | [08](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_08_active_equity_market_review.md) | Active Equity | 华泰研究《[主动权益市场深度复盘与发展前瞻](https://inst.htsc.com/research/report?reportId=4466845800)》 | 从监管基准、份额流向、产品分化与机构平台四个层面解释主动管理价值重估，提炼可持续超额、风险控制与组织能力 Alpha | 2026-03-27 | 🧩 |
+| [09](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_09_quantitative_industry_rotation_rough_road.md) | Industry Rotation | 华泰研究《[量化行业轮动的“崎岖之路”](https://inst.htsc.com/research/report?reportId=4459844484)》 | 以反转修正残差动量、拥挤度预警与多目标遗传规划重建行业排序，并用风格择时和 CTA 改善权重配置与退出风险 | 2026-03-13 | 🚀🧩 |
+
+
+
 
 | No. | Topic | Report | Main Idea | Time | Recommendation |
 | --- | --- | --- | --- | --- | --- |
