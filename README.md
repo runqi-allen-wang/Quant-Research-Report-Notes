@@ -20,7 +20,7 @@
 |
 ├── README.md
 |
-└── [SKILL.md](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/SKILL.md)
+└── SKILL.md
 ```
 
 
