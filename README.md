@@ -1,7 +1,7 @@
 # Quant Research Report Notes
 
 > 基于 [AlphaLens](https://github.com/runqi-allen-wang/AlphaLens) 的量化研报阅读、分析与知识沉淀项目。
-
+![AlphaLens Poster](AlphaLens.png)
 
 
 本仓库用于整理我在量化研究学习过程中阅读的金融工程、量化投资、资产配置、基金研究与 AI 投研报告。目前主要关注 [**华泰金工组**](https://inst.htsc.com/research) 的公开研报。
