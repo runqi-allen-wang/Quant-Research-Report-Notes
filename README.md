@@ -24,6 +24,10 @@
 
 ## Current Notes
 
+Recommendation 使用三个独立维度：
+
+🚀：行业领先性；🧩：框架完整性；🔁：强可复现性。
+
 | No. | Topic | Report | Main Idea | Time | Recommendation |
 | --- | --- | --- | --- | --- | --- |
  [01](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_01_ts_cta_methodology/notes.md)               | Time-Series CTA   | 华泰研究《[时序 CTA 方法论综述：市场状态、开仓信号与退出机制](https://inst.htsc.com/research/report?reportId=4507121011)》 | 从市场状态识别、趋势信号和退出机制三个层面拆解 CTA 收益来源，构建系统化趋势跟踪研究框架    | 2026-06-10 | 🧩             |
