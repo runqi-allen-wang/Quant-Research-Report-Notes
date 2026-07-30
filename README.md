@@ -36,10 +36,8 @@ Recommendation 使用三个独立维度：
 | [02](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_02_chip_structure_end2end_ai_factor/notes.md) | AI Factor         | 华泰研究《[基于筹码分层结构的端到端AI因子](https://inst.htsc.com/research/report?reportId=4504481798)》            | 利用筹码成本分布刻画投资者行为结构，并通过 CNN+GRU 学习非线性选股 Alpha       | 2026-06-02 | 🚀🧩           |
 | [03](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_03_self_evolving_skill/notes.md)              | AI Research Agent | 华泰研究《[自进化 Skill：选股策略的自动迭代](https://inst.htsc.com/research/report?reportId=4501046409)》         | 利用 Agent、Skill 管理和版本迭代机制构建自动化量化研究流程，提升策略探索与知识复用效率 | 2026-05-25 | 🚀🧩           |
 | [04](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_04_multidimensional_timing_model/notes.md)    | Market Timing     | 华泰研究《[多维择时模型的拆解与重构](https://inst.htsc.com/research/report?reportId=4498558551)》                | 将择时信号拆解为追高、抄底、追空和逃顶路径，并通过场景化组合提升市场状态适应能力          | 2026-05-18 | 🧩             |
-| 05 | Active Equity | 华泰研究《[主动权益市场深度复盘与发展前瞻](https://inst.htsc.com/research/report?reportId=4466845800)》 | 从主动权益基金生态、投资者行为和机构能力变化出发，分析主动管理行业演变趋势与基金选择逻辑 | 2026-03-27 | 🧩 |
-| 06 | Multi-Objective Factor | 华泰研究《[以空间换时间——多目标基本面选股因子挖掘框架](https://inst.htsc.com/research/report?reportId=4359005908)》 | 利用多目标优化与因子空间搜索框架探索基本面因子的组合空间，提升因子发现效率与有效性 | 2026-06-20 | 🚀🧩🔁 |
-| 07 | High-Frequency Factor | 华泰研究《[高频特征参数化：分钟级可解释因子挖掘框架](https://inst.htsc.com/research/report?reportId=4470731640)》 | 将分钟级市场数据通过参数化变换构造可解释高频因子，并结合AI多因子框架提升微观信息利用效率 | 2026-03-31 | 🚀🧩🔁 |
-| 08 | Asset Allocation | 华泰研究《把握中国资产的中长期Beta机会》 | 从全球流动性、估值周期和ETF工具发展角度分析中国资产中长期配置机会与Beta管理框架 | 2026-05-25 | 🧩 |
+| [05](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_05_china_assets_long_term_beta/notes.md) | China Asset Beta | 华泰研究《[把握中国资产的中长期 Beta 机会——2026 量化视角中期展望](https://inst.htsc.com/research/report?reportId=4500709151)》 | 以全球“滞而非胀”、人民币升值潜力与 Alpha 拥挤为状态判断，借助多资产配置和 ETF-FOF 将中国资产 Beta 转化为可管理的组合收益 | 2026-05-25 | 🧩 |
+
 
 
 
