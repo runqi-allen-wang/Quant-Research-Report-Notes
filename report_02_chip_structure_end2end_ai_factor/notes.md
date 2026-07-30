@@ -474,7 +474,7 @@ GRU 主要学习：
 
 可构造：
 
-$$Pressure_t=\sum_{p>P_t}C_t(p)-\sum_{p<P_t}C_t(p).$$
+$$Pressure_t = \sum_{p > P_t} C_t(p) - \sum_{p < P_t} C_t(p).$$
 
 价值来源：成本锚定与处置效应。
 
