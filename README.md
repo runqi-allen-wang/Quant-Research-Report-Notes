@@ -12,7 +12,7 @@
 │   ├── notes.md
 │   └── src/
 │
-├── 02_chip_structure_ai_factor/
+├── report_02_chip_structure_end2end_ai_factor/
 │   ├── notes.md
 │   └── src/
 │
