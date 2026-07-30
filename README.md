@@ -39,7 +39,7 @@ Recommendation 使用三个独立维度：🚀：行业领先性；🧩：框架
 | [07](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_07_intraday_explainable_factor_mining/notes.md) | Intraday Factor Mining | 华泰研究《[高频特征参数化：分钟级可解释因子挖掘框架](https://inst.htsc.com/research/report?reportId=4470731640)》 | 以参数化分钟量价公式和 NSGA-III 多目标搜索提取可解释微观结构信号，并为日频 AI 选股模型提供独立增量 Alpha | 2026-03-31 | 🚀🧩🔁 |
 | [08](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_08_active_equity_market_review/notes.md) | Active Equity | 华泰研究《[主动权益市场深度复盘与发展前瞻](https://inst.htsc.com/research/report?reportId=4466845800)》 | 从监管基准、份额流向、产品分化与机构平台四个层面解释主动管理价值重估，提炼可持续超额、风险控制与组织能力 Alpha | 2026-03-27 | 🧩 |
 | [09](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_09_quantitative_industry_rotation_rough_road/notes.md) | Industry Rotation | 华泰研究《[量化行业轮动的“崎岖之路”](https://inst.htsc.com/research/report?reportId=4459844484)》 | 以反转修正残差动量、拥挤度预警与多目标遗传规划重建行业排序，并用风格择时和 CTA 改善权重配置与退出风险 | 2026-03-13 | 🚀🧩 |
-
+| [10](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_10_global_three_layer_liquidity_risk/notes.md) | Liquidity Risk | 华泰研究《[全球三层次流动性风险预警模型](https://inst.htsc.com/research/report?reportId=4460172299)》 | 沿央行供给、杠杆融资与市场交易三层传导构建全球流动性预警，并以动态现金防御降低多资产组合尾部回撤 | 2026-03-15 | 🚀🧩 |
 
 
 
