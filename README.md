@@ -38,7 +38,7 @@ Recommendation 使用三个独立维度：
 | [04](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_04_multidimensional_timing_model/notes.md)    | Market Timing     | 华泰研究《[多维择时模型的拆解与重构](https://inst.htsc.com/research/report?reportId=4498558551)》                | 将择时信号拆解为追高、抄底、追空和逃顶路径，并通过场景化组合提升市场状态适应能力          | 2026-05-18 | 🧩             |
 | [05](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_05_china_assets_long_term_beta/notes.md) | China Asset Beta | 华泰研究《[把握中国资产的中长期 Beta 机会——2026 量化视角中期展望](https://inst.htsc.com/research/report?reportId=4500709151)》 | 以全球“滞而非胀”、人民币升值潜力与 Alpha 拥挤为状态判断，借助多资产配置和 ETF-FOF 将中国资产 Beta 转化为可管理的组合收益 | 2026-05-25 | 🧩 |
 | [06](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_06_multi_objective_fundamental_factor_mining.md) | Fundamental Factor Mining | 华泰研究《[以空间换时间——多目标基本面选股因子挖掘框架](https://inst.htsc.com/research/report?reportId=4359005908)》 | 以参数化财务指标表达式和 NSGA-II 同时优化 IIC、时序胜率与多头排序表现，在保持经济解释性的同时挖掘稳定基本面 Alpha | 2025-08-11 | 🚀🧩🔁 |
-
+| [07](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_07_intraday_explainable_factor_mining.md) | Intraday Factor Mining | 华泰研究《高频特征参数化：分钟级可解释因子挖掘框架》 | 以参数化分钟量价公式和 NSGA-III 多目标搜索提取可解释微观结构信号，并为日频 AI 选股模型提供独立增量 Alpha | 2026-03-31 | 🚀🧩🔁 |
 
 
 | No. | Topic | Report | Main Idea | Time | Recommendation |
