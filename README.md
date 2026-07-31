@@ -76,11 +76,7 @@ Alpha 机制提炼
 
 ## Current Notes
 
-Recommendation 使用三个独立维度：
-
-- 🚀：行业领先性；
-- 🧩：框架完整性；
-- 🔁：强可复现性。
+Recommendation 使用三个独立维度：🚀：行业领先性；🧩：框架完整性；🔁：强可复现性。
 
 | No. | Topic | Report | Main Idea | Time | Recommendation |
 | --- | --- | --- | --- | --- | --- |
