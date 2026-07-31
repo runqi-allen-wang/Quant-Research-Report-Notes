@@ -37,7 +37,7 @@ Alpha 机制提炼
 可复用知识沉淀
 ```
 
-AlphaLens 不只回答“这篇研报讲了什么”，还重点回答：
+[AlphaLens](https://github.com/runqi-allen-wang/AlphaLens) 不只回答“这篇研报讲了什么”，还重点回答：
 
 - 研究试图解决什么问题；
 - 方法为什么有效；
@@ -45,10 +45,6 @@ AlphaLens 不只回答“这篇研报讲了什么”，还重点回答：
 - 结论依赖哪些假设；
 - 研究在哪些条件下可能失效；
 - 方法如何被复现、扩展或迁移。
-
-AlphaLens 项目地址：
-
-https://github.com/runqi-allen-wang/AlphaLens
 
 ---
 
