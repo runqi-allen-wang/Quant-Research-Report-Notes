@@ -99,6 +99,7 @@ Recommendation 使用三个独立维度：
 | [09](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_09_quantitative_industry_rotation_rough_road/notes.md) | Industry Rotation | 华泰研究《[量化行业轮动的“崎岖之路”](https://inst.htsc.com/research/report?reportId=4459844484)》 | 以反转修正残差动量、拥挤度预警与多目标遗传规划重建行业排序，并用风格择时和 CTA 改善权重配置与退出风险 | 2026-03-13 | 🚀🧩 |
 | [10](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_10_global_three_layer_liquidity_risk/notes.md) | Liquidity Risk | 华泰研究《[全球三层次流动性风险预警模型](https://inst.htsc.com/research/report?reportId=4460172299)》 | 沿央行供给、杠杆融资与市场交易三层传导构建全球流动性预警，并以动态现金防御降低多资产组合尾部回撤 | 2026-03-15 | 🚀🧩 |
 | [11](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_11_llm_concept_macro_stock_selection/notes.md) | Multi-Agent Selection | 华泰研究《[大模型概念与宏观热点选股](https://inst.htsc.com/research/report?reportId=4454061267)》 | 以产业链拆分和宏观多路径推演组织并行智能体，并通过证据仲裁将非结构化热点信息转化为可审计选股组合 | 2026-02-28 | 🚀🧩 |
+| [12](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_12_korea_etf_market_overview_and_hot_products/notes.md) | Korea ETF Market | 华泰研究《[韩国 ETF 市场概况和热点产品](https://inst.htsc.com/research/report?reportId=4455704456)》 | 从底层资产、主动管理、双寡头竞争与热点产品迁移刻画韩国 ETF 生态，揭示半导体产业、现金管理需求和产品创新共同驱动的市场扩张 | 2026-03-06 | 🧩 |
 
 ---
 
