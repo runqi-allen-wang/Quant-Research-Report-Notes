@@ -1,5 +1,7 @@
 # Quant Research Report Notes
 
+中文版 | [English README](README.md)
+
 > 基于 [AlphaLens](https://github.com/runqi-allen-wang/AlphaLens) 的量化研报阅读、分析与知识沉淀项目。
 ![AlphaLens Poster](AlphaLens.png)
 
