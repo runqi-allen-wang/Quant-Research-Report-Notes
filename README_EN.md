@@ -1,5 +1,5 @@
 # Quant Research Report Notes
-[中文版 README](README_CN.md) \| English
+[中文版 README](README.md) \| English
 
 
 > A project for reading, analyzing, and systematically accumulating knowledge from quantitative research reports, powered by [AlphaLens](https://github.com/runqi-allen-wang/AlphaLens).
