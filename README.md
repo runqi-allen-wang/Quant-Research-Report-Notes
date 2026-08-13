@@ -96,6 +96,7 @@ Recommendation 使用三个独立维度：🚀：行业领先性；🧩：框架
 | [12](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_12_korea_etf_market_overview_and_hot_products/notes.md) | Korea ETF Market | 华泰研究《[韩国 ETF 市场概况和热点产品](https://inst.htsc.com/research/report?reportId=4455704456)》 | 从底层资产、主动管理、双寡头竞争与热点产品迁移刻画韩国 ETF 生态，揭示半导体产业、现金管理需求和产品创新共同驱动的市场扩张 | 2026-03-06 | 🧩 |
 | [13](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_13_hong_kong_fundamental_quant_guide/notes.md) | HK Fundamental Quant | 华泰研究《[港股基本面量化指南](https://inst.htsc.com/research/report?reportId=4449343380)》 | 统一港股异构财报的准则、时点与币种口径，以六维基本面评分筛选优质公司，并叠加传统量价与 GRU 因子增强股票排序 | 2026-07-31 | 🧩🔁 |
 | [14](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_14_ah_premium_direction_prediction/notes.md) | AH Premium Prediction | 华泰研究《[AH 同时上市企业溢价变化方向预测](https://inst.htsc.com/research/report?reportId=4441329057)》 | 以 DTW 筛选跨企业假样本扩充 A/H 小样本训练，借助共享 GRU 与交叉注意力提取相对定价信号，并用于 A/H 轮动与指增增强 | 2026-08-07 | 🚀🧩🔁 |
+| [15](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes/blob/main/report_15_industry_flow_rotation/notes.md) | Industry Capital Flow Rotation | 华泰研究《[行业资金流向图应用于行业轮动](https://inst.htsc.com/research/report?reportId=4529452503)》 | 构建行业主动资金流向图，通过资金迁移网络刻画行业间资金关系，并提取资金流信号用于行业轮动与组合配置 | 2026-08-13 | 🚀🧩 |
 
 ---
 
